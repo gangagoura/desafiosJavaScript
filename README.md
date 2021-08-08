@@ -1,2 +1,2 @@
 # desafiosJavaScript
-Desafios de JavaScript Digital Innovation One bootcamp SpTech fullStack
+Desafios de JavaScript 
